@@ -15,7 +15,7 @@ Added
 - readme.md
 
 ## Contributors
-Insoo Lee
-Hyunseo Kang
-Sunjun Park
-Hyunsik Oh 
+- Insoo Lee
+- Hyunseo Kang
+- Sunjun Park
+- Hyunsik Oh 
